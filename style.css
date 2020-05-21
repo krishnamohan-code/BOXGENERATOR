@@ -15,7 +15,8 @@
 .myDiv{
     height: 50px;
     width: 50px;
-    border: 10px;
+    border: 1px solid black;
+    margin: 10px;
     text-align: center;
     position: relative;
     display: flex;
